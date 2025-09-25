@@ -3,7 +3,7 @@
 **Real-time event processor for the NotificaJá ecosystem**, built with Go and Apache Kafka.  
 This service is responsible for consuming notification events and triggering actions (e.g., email delivery) based on message content.
 
----
+----
 
 ## 📌 What is this?
 
