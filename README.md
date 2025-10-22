@@ -26,7 +26,7 @@ The goal is to create a scalable and production-ready streaming layer using mode
 | Monitoring (future)   | Prometheus + Grafana   |
 | Containerization (future) | Docker + Compose |
 
----
+----
 
 ## 🧱 Project Structure
 
