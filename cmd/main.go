@@ -4,4 +4,6 @@ import
 	"fmt"
 
 
-func 
+func (
+	f
+)
